@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hola! Soy Alan<br><br>💼 Ciberseguridad Informática | 🎓 Administrador de Sistemas Linux | 📜 Certificaciones CISCO<br><br>Soy un apasionado de la ciberseguridad informática con 32 años. He completado estudios en administración de sistemas Linux y he realizado varios cursos especializados en ciberseguridad. Además, cuento con certificaciones de CISCO que avalan mis conocimientos y habilidades en este ámbito. También estoy aprendiendo a utilizar herramientas de programación como Python.
+👋 Hola! Soy Alan<br><br>💼 Ciberseguridad Informática | 🎓 Administrador de Sistemas Linux | 📜 Certificaciones CISCO<br><br>Soy un apasionado de la ciberseguridad informática. He completado estudios en administración de sistemas Linux y he realizado varios cursos especializados en ciberseguridad. Además, cuento con certificaciones de CISCO que avalan mis conocimientos y habilidades en este ámbito. También estoy aprendiendo a utilizar herramientas de programación como Python.
 
 
 ## 🌐 Socials:
