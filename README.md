@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hola! Soy Alan<br><br>💼 Ciberseguridad Informática | 🎓 Administrador de Sistemas Linux | 📜 Certificaciones CISCO<br><br>Soy un apasionado de la ciberseguridad informática. He completado estudios en administración de sistemas Linux y he realizado varios cursos especializados en ciberseguridad. Además, cuento con certificaciones de CISCO que avalan mis conocimientos y habilidades en este ámbito. También estoy aprendiendo a utilizar herramientas de programación como Python.
+👋 Hola! Soy Alan<br><br>💼 Ciberseguridad Informática | 🎓 Administrador de Sistemas Linux | 📜 Certificaciones CISCO<br><br>Como especialista en seguridad informática, he completado estudios en administración de sistemas Linux y he realizado varios cursos especializados en ciberseguridad como por ejemplo AÑADIR ALGUNOS CURSOS. Además, cuento con certificaciones de CISCO que avalan mis conocimientos y habilidades en este ámbito. Mis competencias también incluyen la programación en Python, que utilizo para desarrollar soluciones de seguridad y proyectos personales.
 
 
 ## 🌐 Socials:
